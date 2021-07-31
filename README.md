@@ -1,2 +1,2 @@
 # FOPP3Ed-slovak
-Translation of Fundamentals of Piano Practice by Chuan C. Chang to Slovak language
+Translation of 3rd edition of Fundamentals of Piano Practice by Chuan C. Chang to Slovak language
