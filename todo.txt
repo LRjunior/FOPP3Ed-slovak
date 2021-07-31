@@ -1,0 +1,27 @@
+FOPP3Ed_sk TODO list
+====================
+I.4 - Skrútené a ploché pozície prstov, paralýza zo skrútenia
+I.26 Rýchlosť, rytmus, dynamika
+I.27 Degradácia rýchleho hrania, eliminácia zlozvykov
+I.28 Skoky, PP, FF
+I.32 Arpeggio, pohyb ako vozík, oddelenie prstov
+I.35 Trilky a tremolá
+I.36 Pohyby rúk
+I.38 Náčrty, Beethovenova Sonáta č 1, op. 2-1
+I.39 Pedál, fyzika zvuku klavíra
+I.40 Mäkký Pedal: ozvučenie kladiviek
+I.41 Hranie bez rozohrania, rozohranie sa, formovanie
+I.42 Muzikalita, dotyk, tón, farba
+I.43 Problémy s Hanonovými cvičeniami
+I.44 Príklady použitia
+I.45 Spevníky, jazz, improvizácia
+I.46 Hra z listu, spievanie z listu, komponovanie
+I.47 Strečing a ďalšie cvičenia
+I.48 Príprava na vystúpenie, nahrávanie videa
+I.49 Vznik a ovládanie nervozity
+I.50 Počas a po vystúpení
+
+Revízia prekladu čítaním (proofreading)
+=======================================
+I.4 Skrútené a ploché pozície prstov, paralýza zo skrútenia
+
