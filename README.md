@@ -8,3 +8,5 @@ http://www.pianopractice.org
 http://www.pianopractice.org/FOPP3Ed.html
 
 http://www.pianopractice.org/FOPP3_2Single.pdf
+
+License: fair use.
