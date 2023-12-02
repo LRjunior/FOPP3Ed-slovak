@@ -2,7 +2,6 @@ FOPP3Ed_sk TODO list
 ====================
 I.4 - Skrútené a ploché pozície prstov, paralýza zo skrútenia
 I.27 Degradácia rýchleho hrania, eliminácia zlozvykov
-I.28 Skoky, PP, FF
 I.32 Arpeggio, pohyb ako vozík, oddelenie prstov
 I.35 Trilky a tremolá
 I.36 Pohyby rúk
