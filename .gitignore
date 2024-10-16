@@ -1,1 +1,8 @@
 *.synctex.gz
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+*.aux
