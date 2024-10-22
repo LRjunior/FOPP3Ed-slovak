@@ -7,6 +7,14 @@ I.41 Hranie bez rozohrania, rozohranie sa, formovanie
 I.42 Muzikalita, dotyk, tón, farba
 I.43 Problémy s Hanonovými cvičeniami
 I.44 Príklady použitia
+    I.44.a Für Elise
+    I.44.b Cvičebné rutiny pre nové skladby: Bachove Invencie, Sinfónie
+    I.44.c Bach použil paralelné sady pri kompozícii Invencií
+    I.44.d Mozartove Rondo, Sonáta č. 16 A dur, K300 (331)
+    I.44.e Chopinova Fantaisie Impromptu. Op. 66, Polyrytmy
+    I.44.f Beethovenova Moonlight: prvá a tretia veta
+    I.44.g Beethovenova Patetická, Op. 13, prvá veta
+    I.44.h Beethovenova Appassionata, Op. 57, prvá veta}
 I.45 Spevníky, jazz, improvizácia
 I.46 Hra z listu, spievanie z listu, komponovanie
 I.47 Strečing a ďalšie cvičenia
